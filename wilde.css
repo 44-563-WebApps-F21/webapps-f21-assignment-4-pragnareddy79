@@ -53,3 +53,25 @@ table td,th {
 tr:nth-child(even){
     background-color: gray;
 }
+ul{
+   font-family: 'Courier New', Courier, monospace;
+    font: sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: lightsalmonl;
+}
+li{
+    float: left;
+    background-color: lightgrey;
+}
+li a{
+    display: block;
+    color: black;
+    padding: 8px;
+    background-color: burlywood;
+}
+li a:hover{
+    background-color: lightskyblue;
+    color: black;
+    display: block;
+}
